@@ -11,6 +11,11 @@ FindYourTherapist harnesses state-of-the-art natural language processing to prod
 ## How we built it
 The front end of the software is built with HTML, CSS, and JS. The questionnaire is designed to intake both demographic data (such as age, gender, ethnicity & religion) and narrative data (regarding upbringing and life experience). For the demographic data, the patient can assign each category with a ‘weight factor’ to indicate how important that aspect is for them. The text data from the entire survey is then sent to the back-end API.
 
+## Built with
+* HTML
+* CSS
+* JS
+
 ## Link to website
 [FindYourTherapist](http://www.findyourtherapist.me/)
 
